@@ -1,0 +1,21 @@
+#titulo {
+    font-size: 40px;
+    text-align:justify;
+    color:cornflowerblue;
+    
+}
+
+.texto {
+    font-size: 18px;
+}
+
+.foto {
+    height: 80px;
+    width: 80px;
+}
+
+#links {
+    font-size: 15px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
