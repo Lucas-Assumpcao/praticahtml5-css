@@ -2,6 +2,7 @@
     font-size: 40px;
     color:cornflowerblue;
     text-align: center;
+    padding:70px;
 }
 
 .texto {
@@ -46,3 +47,68 @@
     margin-inline-start: auto;
 
 }
+body {
+      font-family: Arial;
+      background-color: #f5f5f5;
+      padding: 20px;
+    }
+    .produto {
+      background: white;
+      padding: 15px;
+      margin: 15px;
+      border-radius: 10px;
+      width: 250px;
+      display: inline-block;
+      vertical-align: top;
+    }
+    img {
+      width: 100%;
+      border-radius: 5px;
+    }
+    h3 {
+      margin: 10px 0 5px;
+    }
+    p {
+      font-size: 14px;
+    }
+    .preco {
+      color: green;
+      font-weight: bold;
+    }
+    .container {
+      background: white;
+      padding: 20px;
+      border-radius: 10px;
+      max-width: 500px;
+      margin: auto;
+    }
+    h2 {
+      text-align: center;
+    }
+    input, textarea {
+      width: 100%;
+      padding: 10px;
+      margin: 10px 0;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+    }
+    button {
+      background-color: #4CAF50;
+      color: white;
+      padding: 10px;
+      border: none;
+      width: 100%;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #45a049;
+    }
+    .mapa {
+      margin-top: 20px;
+      text-align: center;
+    }
+    .mapa img {
+      width: 100%;
+      border-radius: 10px;
+    }
