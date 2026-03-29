@@ -1,8 +1,7 @@
 #titulo {
     font-size: 40px;
-    text-align:justify;
     color:cornflowerblue;
-    
+    text-align: center;
 }
 
 .texto {
@@ -18,4 +17,32 @@
     font-size: 15px;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.historia{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    padding: 30px;
+    margin-inline-start: auto;
+
+
+}
+
+.missao{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    padding: 30px;
+    margin-inline-start: auto;
+
+}
+.atuacao{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    padding: 30px;
+    margin-inline-start: auto;
+
 }
